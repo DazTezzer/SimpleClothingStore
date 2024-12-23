@@ -4,3 +4,9 @@
 [submodule "bebeziansfront"]
 	path = bebeziansfront
 	url = https://bebezians-admin@bitbucket.org/bebezians/bebeziansfront.git
+[submodule "bebeziansback-github"]
+	path = bebeziansback
+	url = https://github.com/DazTezzer/SimpleGoWebServer.git
+[submodule "bebeziansfront-github"]
+	path = bebeziansfront
+	url = https://github.com/DazTezzer/SimpleReactShop.git
